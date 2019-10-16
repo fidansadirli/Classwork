@@ -6,5 +6,9 @@ public class TypeWrappers2 {
 
         int max1 = new Max2(5, 7).max();
         int max2 = Math.max(5, 7);
+
+
+        int a =0;
+
     }
 }
