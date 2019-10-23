@@ -1,3 +1,5 @@
+package class4;
+
 import java.util.Random;
 
 public class Stringg {
