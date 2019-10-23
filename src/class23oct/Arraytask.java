@@ -20,10 +20,11 @@ public class Arraytask {
         }
 
         for (int i = 0; i < 100; i++) {
-            if( list.indexOf(i)%2==1){
-                odd.add(list.indexOf(i));
+            if( list.get(i)%2==1){
+                odd.add(list.get(i));
+
             }else{
-                even.add(list.indexOf(i));
+                even.add(list.get(i));
 
             }
 
